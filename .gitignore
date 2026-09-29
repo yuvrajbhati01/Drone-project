@@ -1,0 +1,14 @@
+node_modules/
+dist/
+tmp-ui/
+backend/data/storage/
+backend/data/debug-frames/
+backend/__pycache__/
+backend/**/__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
